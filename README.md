@@ -16,4 +16,4 @@ Picture of our solidworks design:
 
 Actual picture of our prototype: 
 
-![Drone Image(2)](https://github.com/ArasVakilimafakheri/LIFE-TANK-PROTOTYPE/assets/168691560/716fafc5-4851-469e-86b0-9fe17a1521a2)
+![IMG_5164](https://github.com/ArasVakilimafakheri/LIFE-TANK-PROTOTYPE/assets/168691560/5cf60330-1527-44bd-bb11-52cc9219fb94)
