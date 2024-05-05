@@ -13,3 +13,7 @@ We were able to present in front of esteemed judges: Professor Pim Oomen, Ph.D.,
 Picture of our solidworks design: 
 
 ![Drone Image(2)](https://github.com/ArasVakilimafakheri/LIFE-TANK-PROTOTYPE/assets/168691560/716fafc5-4851-469e-86b0-9fe17a1521a2)
+
+Actual picture of our prototype: 
+
+![Drone Image(2)](https://github.com/ArasVakilimafakheri/LIFE-TANK-PROTOTYPE/assets/168691560/716fafc5-4851-469e-86b0-9fe17a1521a2)
